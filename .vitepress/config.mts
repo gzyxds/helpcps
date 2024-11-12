@@ -32,7 +32,7 @@ import { defineConfig } from "vitepress";
       },
       {
         "text": "💹注册登入",
-        "link": "https://www.payphp.cn/User/Login/Index"
+        "link": "https://cps.urlnet.cn/#/subcontract/pages/login/login"
       },
       {
         "text": "🍵APP下载",
@@ -101,8 +101,8 @@ import { defineConfig } from "vitepress";
       }
     ],
     "footer": {
-      "message": "Released under the Payphp.cn Public License.",
-      "copyright": "Copyright © 2024-Payphp.cn All Rights Reserved"
+      "message": "专业的创作内容推荐平台，为短视频达人提供优质服务",
+      "copyright": "Copyright © 2024-短剧分销CPS. All Rights Reserved"
     },
     "prev": "上一篇",
     "returnToTopLabel": "返回顶部",

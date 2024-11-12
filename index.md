@@ -4,7 +4,7 @@ layout: home
 
  
 hero:     
-  name: "短剧CPS"
+  name: "短剧分销平台"
   # text: "专业CPS分发与推广"
   tagline:  短剧、影票、小说推文、外卖、推广计划一站式创作平台！
   
@@ -15,91 +15,107 @@ hero:
   actions:
     - theme: brand
       text: 快速开始
-      link: https://payphp.cn
+      link: https://cps.urlnet.cn
 
     - theme: brand
       text: 立即注册
-      link: https://payphp.cn
+      link: https://cps.urlnet.cn
 
     - theme: alt
       text: APP下载
-      link: https://www.maovideo.com/libs/share/index.html
+      link: https://cps.urlnet.cn
 
     - theme: alt
       text: 加入社群
-      link: https://www.payphp.cn/User/Home/Index
-
+      link: https://cps.urlnet.cn
 
       
 
 
 features:
-  - title: 🎬近万部授权短剧
-    details: 拥有8000+部正版授权短剧，无侵权之忧！覆盖全网最新热门短剧，每日更新热门榜单，让你及时获取最新赚钱信息。
-    link: https://payphp.cn
+  - title: 🎬合作平台
+    details: 抖音小程序推广计划、抖音巨量星图达人入驻、快手官方达人入驻、微信视频号、小红书、微博、淘宝
+    link: https://cps.urlnet.cn
    
-  - title: 📱支持主流短视频平台
-    details: 抖音、快手、视频号任你选择，更有推广计划模式，多平台，多剧场，多选择，多种挂载方式，一部任意发，多方收益等你来赚!
-    link: https://payphp.cn
+  - title: 🎫影票达人
+    details: 抖音影票CPS分销推广
+    link: https://cps.urlnet.cn
 
-  - title: 💰超高分成周结提现
-    details: 我们拥有全行业高比例分成，优秀的创作者可获得更高收益分成，同时还可以发展团队，让你的收益呈阶梯式增长!
-    link: https://payphp.cn
+  - title: 🎭带剧达人
+    details: 短剧CPS一键推广授权分发
+    link: https://cps.urlnet.cn
 
-  - title: 👨‍🏫专业导师一对一教学
-    details: 0粉小白也能get的短剧赚钱生意经，轻松月入过万，专业导师一对一指导。
-    link: https://payphp.cn
+  - title: 📚小说推文
+    details: 漫画小说挂载推广
+    link: https://cps.urlnet.cn
    
-  - title: 👥适合多种人群
-    details: 宝妈、学生、自由职业者、上班族都适合，无门槛轻松开启短剧创作之旅。
-    link: https://payphp.cn
+  - title: 🍽️外卖达人
+    details: 短视频挂载外卖CPS
+    link: https://cps.urlnet.cn
 
-  - title: 📝简单入驻流程
-    details: 注册账号→登入授权→发布创作→获取收益→佣金结算，五步轻松开启赚钱之旅。
-    link: https://payphp.cn
+  - title: 🤖抖音AI
+    details: 抖音AI挂载推广
+    link: https://cps.urlnet.cn
 
-  - title: 🏢平台简介
-    details: 短剧CPS是成都路优优科技有限公司旗下短剧分销一站式服务平台，致力于为创作者提供全面的短剧分销解决方案。
-    link: https://payphp.cn
+  - title: ©️IP授权
+    details: 提供多种热门IP的授权，包括影视、动漫、游戏等领域，助力创作者打造独特内容
+    link: https://cps.urlnet.cn
    
-  - title: ⭐平台特色
-    details: 8000+部授权短剧库、领先的分成比例、先进的数据分析和推荐算法，为用户提供优质服务。
-    link: https://payphp.cn
+  - title: 🎬短剧分发
+    details: 覆盖多个主流平台的短剧分发渠道，帮助创作者快速扩大作品影响力
+    link: https://cps.urlnet.cn
 
-  - title: 🛠️服务说明
-    details: 用户可以轻松访问平台，挑选合适的短剧素材进行编辑、定制和发布，提供全方位操作指南。
-    link: https://payphp.cn
+  - title: 🎮游戏分发
+    details: 提供多样化的游戏分发渠道，助力游戏开发者获得更多玩家关注
+    link: https://cps.urlnet.cn
 
-  - title: 🌐服务范围
-    details: 创作者培育与支持、流量主合作机制、剧场方策略合作，全方位助力用户成长。
-    link: https://payphp.cn
+  - title: 📱短视频CPS
+    details: 通过CPS模式，为短视频创作者提供更多变现机会，实现内容与收益的双赢
+    link: https://cps.urlnet.cn
    
-  - title: 📈未来规划
-    details: 持续技术创新和服务优化，扩大市场覆盖，增强用户体验，推动短剧内容多样化发展。
-    link: https://payphp.cn
+  - title: 🏢短剧分销平台
+    details: 打造专业的短剧分销平台，连接创作者与分销商，实现资源的高效配置
+    link: https://cps.urlnet.cn
 
-  - title: 🤝合作伙伴
-    details: 与抖音、快手、视频号等多家知名平台建立战略合作，打造共赢生态系统。
-    link: https://payphp.cn
+  - title: 📋短剧推广授权
+    details: 提供短剧推广授权服务，帮助优质作品获得更广泛的传播和认可
+    link: https://cps.urlnet.cn
+  - title: 📚海量短剧库
+    details: 拥有8000+部正版授权短剧，每日更新热门榜单，覆盖全网最新热门内容，无侵权之忧
+    link: https://cps.urlnet.cn
+    
+  - title: 🌐多平台支持
+    details: 支持抖音、快手、视频号等主流短视频平台，多种挂载方式，一部任意发，多方收益
+    link: https://cps.urlnet.cn
+    
+  - title: 💰高额分成
+    details: 全行业高比例分成制度，优秀创作者可获更高收益，支持团队发展，收益呈阶梯式增长
+    link: https://cps.urlnet.cn
+
+  - title: 💰收益保障
+    details: 平台提供稳定的收益保障机制，结算及时透明，让创作者专注内容创作无后顾之忧
+    link: https://cps.urlnet.cn
+    
 ---
-
-
-<div style="display: flex; justify-content: space-around; margin: 40px 0; background: #f8f9fa; padding: 30px; border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-  <div style="text-align: center; transition: transform 0.3s;">
-    <img src="https://payphp.oss-cn-shenzhen.aliyuncs.com/user.png" alt="微信二维码" width="200" height="200" style="border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-    <p style="margin-top: 15px; font-size: 16px; color: #333; font-weight: 500;">微信客服</p>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0; padding: 15px;">
+  <div style="text-align: center; flex: 1 1 200px; max-width: 250px; background: #fff; padding: 15px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <img src="https://payphp.oss-cn-shenzhen.aliyuncs.com/user.png" alt="微信客服" style="width: 100%; border-radius: 8px;">
+    <p style="margin-top: 10px; font-size: 15px; color: #333; font-weight: 500;">微信客服</p>
   </div>
-  <div style="text-align: center; transition: transform 0.3s;">
-    <img src="https://payphp.oss-cn-shenzhen.aliyuncs.com/gzh.png" alt="公众号二维码" width="200" height="200" style="border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-    <p style="margin-top: 15px; font-size: 16px; color: #333; font-weight: 500;">官方公众号</p>
+  
+  <div style="text-align: center; flex: 1 1 200px; max-width: 250px; background: #fff; padding: 15px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <img src="https://payphp.oss-cn-shenzhen.aliyuncs.com/gzh.png" alt="公众号二维码" style="width: 100%; border-radius: 8px;">
+    <p style="margin-top: 10px; font-size: 15px; color: #333; font-weight: 500;">官方公众号</p>
   </div>
-  <div style="text-align: center; transition: transform 0.3s;">
-    <img src="https://payphp.oss-cn-shenzhen.aliyuncs.com/gzh.png" alt="平台二维码" width="200" height="200" style="border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-    <p style="margin-top: 15px; font-size: 16px; color: #333; font-weight: 500;">平台二维码</p>
+  
+  <div style="text-align: center; flex: 1 1 200px; max-width: 250px; background: #fff; padding: 15px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <img src="https://payphp.oss-cn-shenzhen.aliyuncs.com/gzh.png" alt="平台二维码" style="width: 100%; border-radius: 8px;">
+    <p style="margin-top: 10px; font-size: 15px; color: #333; font-weight: 500;">平台二维码</p>
   </div>
-    <div style="text-align: center; transition: transform 0.3s;">
-    <img src="https://payphp.oss-cn-shenzhen.aliyuncs.com/gzh.png" alt="平台二维码" width="200" height="200" style="border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-    <p style="margin-top: 15px; font-size: 16px; color: #333; font-weight: 500;">平台二维码</p>
+  
+  <div style="text-align: center; flex: 1 1 200px; max-width: 250px; background: #fff; padding: 15px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <img src="https://payphp.oss-cn-shenzhen.aliyuncs.com/gzh.png" alt="平台二维码" style="width: 100%; border-radius: 8px;">
+    <p style="margin-top: 10px; font-size: 15px; color: #333; font-weight: 500;">平台二维码</p>
   </div>
 </div>
 
@@ -136,5 +152,5 @@ features:
 :::
 
 ::: danger 🚀 开启您的成功之旅
-[👉 立即加入我们，开启赚钱之旅 👈](https://payphp.cn)
+[👉 立即加入我们，开启赚钱之旅 👈](https://cps.urlnet.cn)
 :::
