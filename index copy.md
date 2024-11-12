@@ -4,30 +4,32 @@ layout: home
 
  
 hero:     
-  name: "🎬 短剧分销平台"
+  name: "短剧分销平台"
   # text: "专业CPS分发与推广"
-  tagline: "🚀 打造优质内容 · 实现价值共赢 · 一站式创作变现平台"
+  tagline:  短剧、影票、小说推文、外卖、推广计划一站式创作平台！
   
   image: 
     src: https://payphp.oss-cn-shenzhen.aliyuncs.com/images/cps.svg
-    alt: 短剧CPS平台
+    alt: 短剧CPS
     
   actions:
     - theme: brand
-      text: 🎯 快速开始
+      text: 快速开始
       link: https://cps.urlnet.cn
 
     - theme: brand
-      text: 📝 立即注册
+      text: 立即注册
       link: https://cps.urlnet.cn
 
     - theme: alt
-      text: 📱 APP下载
+      text: APP下载
       link: https://cps.urlnet.cn
 
     - theme: alt
-      text: 👥 加入社群
+      text: 加入社群
       link: https://cps.urlnet.cn
+
+      
 
 
 features:
