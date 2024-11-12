@@ -33,7 +33,7 @@
 ## 加入我们
 <img src="https://payphp.oss-cn-shenzhen.aliyuncs.com/paylogo.svg" alt="Payphp Logo" width="200" height="200">
 
-- [Payphp](https://cps.urlnet.cn/) 还在持续更新中，本项目欢迎您的参与，共同维护。
+- [Payphp](https://Payphp.cn/) 还在持续更新中，本项目欢迎您的参与，共同维护。
 - 如果你想加入我们，可以多提供一些好的建议或者提交 pr，我们会根据你的活跃度邀请你加入。
 
 

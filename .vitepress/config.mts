@@ -28,7 +28,7 @@ import { defineConfig } from "vitepress";
       },
       {
         "text": "🎉教程文档",
-        "link": "/global/index"
+        "link": "/help/index"
       },
       {
         "text": "💹注册登入",
@@ -50,12 +50,12 @@ import { defineConfig } from "vitepress";
         "collapsed": false,
         "items": [
           {
-            "text": "🎉系统介绍",
-            "link": "/global/index"
+            "text": "🎉平台公告",
+            "link": "/help/index"
           },
           {
-            "text": "🏅源码授权",
-            "link": "/global/shop"
+            "text": "🏅常见问题",
+            "link": "/help/fqa"
           }
         ]
       },
@@ -65,11 +65,11 @@ import { defineConfig } from "vitepress";
         "items": [
           {
             "text": "✨公众平台",
-            "link": "/global/runtime"
+            "link": "/help/runtime"
           },
           {
             "text": "🎨APP下载",
-            "link": "/global/Setup"
+            "link": "/help/Setup"
           }
         ]
       },
