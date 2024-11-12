@@ -109,13 +109,13 @@ features:
   </div>
   
   <div style="text-align: center; flex: 1 1 200px; max-width: 250px; background: #fff; padding: 15px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-    <img src="https://payphp.oss-cn-shenzhen.aliyuncs.com/gzh.png" alt="平台二维码" style="width: 100%; border-radius: 8px;">
-    <p style="margin-top: 10px; font-size: 15px; color: #333; font-weight: 500;">平台二维码</p>
+    <img src="https://payphp.oss-cn-shenzhen.aliyuncs.com/gzh.png" alt="APP下载" style="width: 100%; border-radius: 8px;">
+    <p style="margin-top: 10px; font-size: 15px; color: #333; font-weight: 500;">APP下载</p>
   </div>
   
   <div style="text-align: center; flex: 1 1 200px; max-width: 250px; background: #fff; padding: 15px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-    <img src="https://payphp.oss-cn-shenzhen.aliyuncs.com/gzh.png" alt="平台二维码" style="width: 100%; border-radius: 8px;">
-    <p style="margin-top: 10px; font-size: 15px; color: #333; font-weight: 500;">平台二维码</p>
+    <img src="https://payphp.oss-cn-shenzhen.aliyuncs.com/gzh.png" alt="创作社群" style="width: 100%; border-radius: 8px;">
+    <p style="margin-top: 10px; font-size: 15px; color: #333; font-weight: 500;">创作社群</p>
   </div>
 </div>
 
