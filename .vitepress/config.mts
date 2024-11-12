@@ -31,11 +31,11 @@ import { defineConfig } from "vitepress";
         "link": "/global/index"
       },
       {
-        "text": "💹商户中心",
+        "text": "💹注册登入",
         "link": "https://www.payphp.cn/User/Login/Index"
       },
       {
-        "text": "🍵商户Q群",
+        "text": "🍵APP下载",
         "link": "https://qm.qq.com/cgi-bin/qm/qr?k=hiPJrntFaxlzcF6pJ4swHNrXGxbv16Ek&jump_from=webapi&authKey=w1QVa8tZUkbAZSL6EoQIaoko1frqj+a67i2SRMgWGe/UvB+i8bvse5CdCXF3wJKS"
       },
       {
@@ -60,15 +60,15 @@ import { defineConfig } from "vitepress";
         ]
       },
       {
-        "text": "📖部署教程",
+        "text": "📖关注我们",
         "collapsed": false,
         "items": [
           {
-            "text": "✨环境需求",
+            "text": "✨公众平台",
             "link": "/global/runtime"
           },
           {
-            "text": "🎨宝塔安装",
+            "text": "🎨APP下载",
             "link": "/global/Setup"
           }
         ]
