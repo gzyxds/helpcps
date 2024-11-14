@@ -70,40 +70,40 @@ import { defineConfig } from "vitepress";
             "link": "/help/one"
           },
           {
-            "text": "🔥AI数字人",
+            "text": "🔥饿了么变现",
             "link": "/help/two"
           },
           {
             "text": "🎬短剧合集",
-            "link": "/help/daily"
+            "link": "/help/three"
           },
           {
             "text": "📖挂载流程",
-            "link": "/help/publish"
+            "link": "/help/four"
           },
           {
             "text": "💡进阶教程",
-            "link": "/help/advanced"
+            "link": "/help/five"
           },
           {
             "text": "🎯剪辑公式",
-            "link": "/help/formula"
+            "link": "/help/six"
           },
           {
             "text": "🛠️搬运技巧",
-            "link": "/help/repost"
+            "link": "/help/seven"
           },
           {
             "text": "🎫影票达人",
-            "link": "/help/ticket"
+            "link": "/help/eight"
           },
           {
             "text": "📹对标账号",
-            "link": "/help/accounts"
+            "link": "/help/nine"
           },
           {
             "text": "🔄去重技巧",
-            "link": "/help/dedup"
+            "link": "/help/ten"
           },
           {
             "text": "❓抖音问题",
