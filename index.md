@@ -23,11 +23,11 @@ hero:
 
     - theme: alt
       text: 📱 APP下载
-      link: https://cps.urlnet.cn
+      link: /help/app
 
     - theme: alt
       text: 👥 加入社群
-      link: https://cps.urlnet.cn
+      link: /help/app
 
 
 features:

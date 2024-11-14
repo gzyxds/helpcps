@@ -36,7 +36,7 @@ import { defineConfig } from "vitepress";
       },
       {
         "text": "🍵APP下载",
-        "link": "https://qm.qq.com/cgi-bin/qm/qr?k=hiPJrntFaxlzcF6pJ4swHNrXGxbv16Ek&jump_from=webapi&authKey=w1QVa8tZUkbAZSL6EoQIaoko1frqj+a67i2SRMgWGe/UvB+i8bvse5CdCXF3wJKS"
+        "link": "/help/app"
       },
       {
         "text": "💬联系客服",
@@ -65,11 +65,11 @@ import { defineConfig } from "vitepress";
         "items": [
           {
             "text": "✨公众平台",
-            "link": "/help/runtime"
+            "link": "/help"
           },
           {
             "text": "🎨APP下载",
-            "link": "/help/Setup"
+            "link": "/help/app"
           }
         ]
       },
