@@ -109,10 +109,6 @@ import { defineConfig } from "vitepress";
             "text": "❓新手问题",
             "link": "/help/eleven"
           },
-          {
-            "text": "🎥快手教程",
-            "link": "/help/kuaishou"
-          }
         ]
       },
       {
