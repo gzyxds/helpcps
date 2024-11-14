@@ -41,6 +41,14 @@ import { defineConfig } from "vitepress";
       {
         "text": "💬联系客服",
         "link": "https://qm.qq.com/q/l8HDomqX4I"
+      },
+      {
+        "text": "🎯免费领卡",
+        "link": "/help/one"
+      },
+      {
+        "text": "🔥AI数字人",
+        "link": "/help/two"
       }
     ],
 
@@ -54,8 +62,56 @@ import { defineConfig } from "vitepress";
             "link": "/help/index"
           },
           {
-            "text": "🏅常见问题",
+            "text": "🏅常见问题", 
             "link": "/help/fqa"
+          },
+          {
+            "text": "🎯短剧简介",
+            "link": "/help/one"
+          },
+          {
+            "text": "🔥AI数字人",
+            "link": "/help/two"
+          },
+          {
+            "text": "🎬短剧合集",
+            "link": "/help/daily"
+          },
+          {
+            "text": "📖挂载流程",
+            "link": "/help/publish"
+          },
+          {
+            "text": "💡进阶教程",
+            "link": "/help/advanced"
+          },
+          {
+            "text": "🎯剪辑公式",
+            "link": "/help/formula"
+          },
+          {
+            "text": "🛠️搬运技巧",
+            "link": "/help/repost"
+          },
+          {
+            "text": "🎫影票达人",
+            "link": "/help/ticket"
+          },
+          {
+            "text": "📹对标账号",
+            "link": "/help/accounts"
+          },
+          {
+            "text": "🔄去重技巧",
+            "link": "/help/dedup"
+          },
+          {
+            "text": "❓抖音问题",
+            "link": "/help/douyin"
+          },
+          {
+            "text": "🎥快手教程",
+            "link": "/help/kuaishou"
           }
         ]
       },
@@ -90,12 +146,8 @@ import { defineConfig } from "vitepress";
             "link": "https://cnai.art/"
           },
           {
-            "text": "🎨AIGC系统",
+            "text": "🎨AI数字人",
             "link": "https://docs.cloudcvm.com/"
-          },
-          {
-            "text": "👀CodePu",
-            "link": "http://www.codepu.cn/"
           }
         ]
       }
