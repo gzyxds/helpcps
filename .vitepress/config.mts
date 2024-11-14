@@ -106,8 +106,8 @@ import { defineConfig } from "vitepress";
             "link": "/help/ten"
           },
           {
-            "text": "❓抖音问题",
-            "link": "/help/douyin"
+            "text": "❓新手问题",
+            "link": "/help/eleven"
           },
           {
             "text": "🎥快手教程",
